@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+classmates = ['李茶馆', u'海源']
+print classmates[0]
